@@ -46,5 +46,12 @@ Information Security Attacks
 					Internet service misconfiguraton
 					Default password settings
 					Network device misconfiguration
+	Classification of Attacks:
+		Passive, Active, Close-in, Insider, Distribution
+		Passive
+			Footprinting
+			Sniffing and eavesdropping
+			Network traffic analysis
+			Decryption of weak-encrypted traffic
 		
 			
