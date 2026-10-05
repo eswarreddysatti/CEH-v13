@@ -1,0 +1,21 @@
+Elements of Information Security
+  Confidentiality
+    Who can see it?
+    Assurance that only authorized personnel have access
+    Only you can see your bank statement
+  Integrity
+    Was it changed?
+    Data remains accurate and unmodified
+    Your bank balance isn't altered from ₹50,000 to ₹5,000
+  Availability
+    “Can I access it when needed?”
+    Systems/data remain accessible
+    UPI/banking service works when you need to pay
+  Authenticity
+    “Is it really who/what it claims to be?”
+    Proves genuineness/identity
+    You verify that an email really came from your bank
+  Non-repudiation
+    “Can they deny doing it later?”
+    Provides evidence that an action/message really occurred
+    A digitally signed document proves who signed it
