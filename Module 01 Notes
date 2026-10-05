@@ -1,4 +1,5 @@
 Elements of Information Security
+CIA + AN
 	-Confidentiality
 		Who can access it?
     	Assurance that only authorized personnel have access
@@ -19,3 +20,31 @@ Elements of Information Security
     	Can they deny doing it later?
     	Provides evidence that an action/message really occurred (Proof of action)
     	A digitally signed document proves who signed it
+
+Information Security Attacks
+	Attacks = Motive + Method + Vulnerability
+		Motive - Goals 
+		Method - TTPS 
+			Tactics - Strategy followed
+			Techniques - Technical method used
+			Procedures - Systematic approach followed
+		Vulnerability - Weakness/defect
+			Common reasons:
+				Hardware/Software misconfiguration
+				Design flaw of network or application
+				Inherent technology weakness
+				End-user carelessness
+				Intentional End-User act
+			Examples:
+				Technological:
+					TCP/IP vulnerabilities - HTTP, FTP, ICMP, SNMP, SMTP, are inherently insecure
+					OS vulnerabilities
+					Network device vulnerabilities
+				Configuration:
+					User account vulnerabilities
+					System account vulnerabilities
+					Internet service misconfiguraton
+					Default password settings
+					Network device misconfiguration
+		
+			
